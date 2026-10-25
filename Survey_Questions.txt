@@ -1,0 +1,23 @@
+DISTRICT-WIDE SURVEY — ENGLISH
+Title: Thar Taleem: District Tharparkar Education & Community Survey
+
+Purpose: This voluntary survey explores education access, school facilities, dropout barriers, career guidance and community solutions across District Tharparkar. It is not limited to one village. Do not collect names, phone numbers, CNIC numbers or exact home addresses.
+
+1. Respondent role: school student; college student; university student; parent/guardian; teacher/school staff; community member; other; prefer not to say.
+2. Taluka: Mithi; Nagarparkar; Islamkot; Diplo; Chachro; Dahli; Kaloi; unknown; outside district; prefer not to say.
+3. Area type: village/rural; town; urban; unknown.
+4. Current education stage: primary; middle; matric/secondary; intermediate; DAE/technical diploma; university/ADP/BS; completed; not currently studying; other.
+5. What is the main education barrier in your area? Distance; transport; education costs; teacher shortage/absence; building/classroom; water/electricity/toilets/furniture; girls' access/safety; household work; internet/computer access; career/admission guidance; scholarship information; other; unknown.
+6. Typical travel time to school/college: under 15 minutes; 15–30; 31–60; over 60; not applicable/unknown.
+7. Which facilities need improvement? Classrooms; drinking water; electricity/fans; toilets; furniture; books; female teachers; teacher attendance; library/lab; computers/internet; safe transport; none; unknown.
+8. How much do education costs affect the household? Very much; somewhat; little; not at all; unknown.
+9. What are possible reasons students leave education? Cost; distance/transport; facilities; teaching/learning support; household work/employment; safety/family concerns; early marriage; lack of career awareness; other; unknown.
+10. Is career guidance available after matric? Yes; partly; no; not applicable/unknown.
+11. What guidance is needed? Intermediate fields; CS/IT/AI/cybersecurity; health/allied health; engineering; agriculture; business; technical diplomas; admissions; scholarships; freelancing/jobs; other.
+12. Are you aware of scholarships? Yes; some information; no; not applicable.
+13. Most important improvement: facilities; teacher support; financial aid; safe transport; parent/community awareness; career guidance; computer/internet; study groups; other.
+14. Would you attend a free career/computer skills session? Yes; maybe; no; prefer not to say.
+15. Suggest one practical way to improve education across District Tharparkar (optional paragraph).
+16. May an anonymous quote from your suggestion be used? Yes; no.
+
+Settings: email collection off; participation voluntary; obtain appropriate permission for minors; report sample size, survey dates and taluqas covered; do not claim a small or geographically limited sample represents the entire district.

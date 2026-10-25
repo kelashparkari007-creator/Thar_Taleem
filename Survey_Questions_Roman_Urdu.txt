@@ -1,0 +1,63 @@
+GOOGLE FORM — ROMAN URDU
+Title: Thar Taleem — Tharparkar District Taleemi Masail aur Community Solutions
+
+Description:
+Yeh survey Civics & Community Engagement assignment ke liye hai. Maqsad District Tharparkar ke mukhtalif taluqon, gaon aur shehri ilaqon mein taleem ki rukawaton aur community ke tajweez karda hal samajhna hai. Hissa lena aapki marzi hai. Apna naam, phone number, CNIC ya ghar ka exact address na likhein. Jawabat class assignment ke liye majmooi shakal mein use honge.
+
+Q1. Aap kaun hain?
+Multiple choice: School student; College/intermediate student; University student; Walid/walida ya guardian; Teacher/school staff; Community member; Doosra; Jawab nahi dena
+
+Q2. Aap District Tharparkar ke kis taluka se jawab de rahe hain?
+Multiple choice: Mithi; Nagarparkar; Islamkot; Diplo; Chachro; Dahli; Kaloi; Taluka maloom nahi; District se bahar; Jawab nahi dena
+
+Q3. Aapka ilaqa kis qisam ka hai?
+Multiple choice: Gaon/rural; Town; Shehri ilaqa; Maloom nahi / jawab nahi dena
+
+Q4. Aapki current education stage kya hai?
+Multiple choice: Primary (Class 1–5); Middle (6–8); Matric/Secondary; Intermediate; DAE/technical diploma; University/ADP/BS; Taleem mukammal; Filhaal taleem mein nahi; Doosra
+
+Q5. Aapke ilaqay mein school-age bachon ki taleem ki surat-e-haal kya hai?
+Multiple choice: Zyada tar bachay regular school jatay hain; Kuch bachay ghair regular hain; Kuch bachay school mein dakhil nahi; Maloom nahi / jawab nahi dena
+
+Q6. Aapke ilaqay mein taleem ka sab se bara masla kya hai?
+Multiple choice: School/college bohat door hai; Transport mushkil; Kitabon/uniform/stationery ka kharcha; Teachers ki kami/ghair hazri; Building/classroom ki kami; Bijli/pani/toilets/furniture ki kami; Larkiyon ke liye access/safety; Ghar ki zimmedariyan/kaam; School chhorne ka dabao; Internet/computer ki kami; Career/admission guidance ki kami; Scholarship ki maloomat ki kami; Doosra; Maloom nahi
+
+Q7. Student ko school/college pohanchne mein aam tor par kitna waqt lagta hai?
+Multiple choice: 15 minute se kam; 15–30 minute; 31–60 minute; 60 minute se zyada; Maloom nahi / lagu nahi
+
+Q8. Aapke ilaqay ke school mein kaunsi sahuliyat behtar honi chahiye?
+Checkboxes: Classrooms/building; Peenay ka pani; Bijli/fans; Toilets; Furniture; Textbooks/stationery; Female teachers; Teachers ki regular attendance; Library/lab; Computer/internet; Safe transport/raasta; Koi khaas kami nahi; Maloom nahi
+
+Q9. Taleem ka kharcha students/family par kitna asar dalta hai?
+Multiple choice: Bohat zyada; Kuch had tak; Bohat kam; Bilkul nahi; Maloom nahi
+
+Q10. Aapke khayal mein students school/college kyun chhortay hain?
+Checkboxes: Fees/ghar ka kharcha; School door/transport; Facilities ki kami; Teachers/learning support; Ghar ka kaam/rozgar; Larkiyon ki safety ya family concerns; Early marriage; Career ka faida samajh na aana; Taleem mein dilchaspi/support ki kami; Doosra; Maloom nahi
+
+Q11. Matric ke baad field choose karne ke liye guidance milti hai?
+Multiple choice: Haan, kafi; Kuch had tak; Nahi; Maloom nahi / lagu nahi
+
+Q12. Aap kin fields ke bare mein guidance chahte hain?
+Checkboxes: Pre-Engineering; Pre-Medical; ICS/Computer Science; IT/Software Engineering; AI/Data Science; Cybersecurity/Networking; Nursing/DPT/Allied Health; Agriculture; Business/Accounting; Teaching; DAE/technical skills; University admission; Scholarships; Freelancing/remote work; Doosra
+
+Q13. Kya aap scholarships ke bare mein jantay hain?
+Multiple choice: Haan aur apply karna janta/janti hun; Kuch maloomat hai; Nahi; Lagu nahi
+
+Q14. Taleem behtar karne ke liye sab se zaroori qadam kya hai?
+Multiple choice: School facilities; Teachers ki availability/training; Financial aid/scholarships; Safe transport; Parents/community awareness; Career guidance; Computer/internet access; Extra tuition/study groups; Doosra
+
+Q15. Kya aap free career/computer skills session mein hissa lena chahenge?
+Multiple choice: Haan; Shayad; Nahi; Jawab nahi dena
+
+Q16. District Tharparkar mein taleem behtar karne ke liye apni practical suggestion dein.
+Paragraph, optional.
+
+Q17. Kya aapki suggestion aapka naam diye baghair project mein quote ki ja sakti hai?
+Multiple choice: Haan; Nahi (optional)
+
+Settings:
+- Email collection off rakhein jab tak teacher specifically na kahe.
+- Naam, phone number, CNIC aur exact ghar ka address collect na karein.
+- Agar minors se survey ho to teacher/guardian permission lein.
+- Form mein taluka zaroor record karein; results ko taluka aur respondent group ke mutabiq summarize karein.
+- Mobile par preview kar ke link share karein.

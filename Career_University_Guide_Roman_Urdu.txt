@@ -1,0 +1,74 @@
+THAR TALEEM & CAREER RAAH — ROMAN URDU GUIDE
+District-wide guide: students across all taluqas and communities of Tharparkar
+
+IMPORTANT
+- Yeh guidance tool hai, career/job/admission guarantee nahi.
+- University fees, merit, eligibility, scholarships aur deadlines har saal badal sakte hain. Latest official prospectus/portal hi final source hai.
+- Rankings subject, year aur methodology ke hisab se farq karti hain.
+
+FIELD CHOOSE KARNE KA TAREEQA
+1. Apne intermediate subjects, marks aur eligibility likho.
+2. Interest, strengths, budget, location/hostel aur family responsibilities dekho.
+3. 3–5 programs aur universities compare karo.
+4. Program recognition/accreditation, course outline, lab, internships aur total cost check karo.
+5. Scholarship office ko direct contact karo; written details lo.
+6. Degree ke saath practical projects, communication, English, internship aur portfolio build karo.
+
+COMPUTING FIELDS
+- BS Computer Science: programming, algorithms, databases, operating systems. Roles: software developer, QA, systems analyst; specialization ke saath data/AI roles.
+- Software Engineering: software design, testing, teamwork, delivery. Roles: software engineer, web/mobile developer, QA automation.
+- IT: IT support, systems, networks, databases, cloud operations. Roles: IT support, system/network administrator, cloud support.
+- AI/ML: Python, maths, statistics, model building/evaluation. Roles: junior AI/ML or automation roles; strong foundations zaroori.
+- Data Science/Analytics: Excel, SQL, statistics, Python, dashboards. Roles: data analyst, BI analyst; data scientist roles usually deeper skills maangte hain.
+- Cybersecurity: networking, Linux, logs, security, incident response. Roles: SOC/security analyst, GRC/risk, authorized penetration testing. Baghair permission kisi system ko test na karein.
+- Networking/Cloud: TCP/IP, routing, servers, Linux/cloud. Roles: network technician, NOC, system admin, cloud support.
+- Computer Engineering/IoT: electronics, embedded systems, sensors, C/C++. Roles: embedded/IoT/automation work.
+- UI/UX/Graphics/Media: design fundamentals, portfolio, accessibility and client communication.
+
+PRE-ENGINEERING / MATHS
+Engineering, CS, IT, SE, AI/Data Science, electrical/civil/mechanical, renewable energy aur maths-related options compare karein. Har program ke subjects, entry tests aur accreditation check karein. DAE eligibility discipline-specific hoti hai.
+
+PRE-MEDICAL
+MBBS/BDS ke liye PMDC ki latest rules, MDCAT, HSSC minimum and provincial merit policy check karein. Alternative routes: Nursing, DPT, Pharm-D, Medical Lab Technology, Radiology/Imaging, Nutrition, Biotechnology, Microbiology, Public Health and Bioinformatics. Recognition, clinical training, registration, shift-work and cost check karein.
+Pre-medical to computing: NCEAC policy material 6 credit hours mathematics deficiency courses ka framework batata hai, lekin current university policy and current regulations confirm karna zaroori hai. Computing and engineering admission rules ek jaisay assume na karein.
+
+UNIVERSITY COMPARISON STARTING POINTS
+- SAU Tando Jam: https://sau.edu.pk/
+- MUET Jamshoro: https://www.muet.edu.pk/
+- Sukkur IBA University: https://www.iba-suk.edu.pk/
+- University of Sindh: https://usindh.edu.pk/
+- QUEST Nawabshah: https://quest.edu.pk/
+- PUCIT / Punjab University: https://pucit.edu.pk/admission-criteria/
+- NUST fee information: https://nust.edu.pk/admissions/fee-structure/undergraduate-financial-matters/
+- COMSATS: https://www.comsats.edu.pk/
+- FAST-NUCES: https://www.nu.edu.pk/
+- Air University: https://www.au.edu.pk/
+Check exact program, campus, accreditation, admission opening, merit, fee, hostel and transport cost before applying.
+
+SCHOLARSHIP STARTING POINTS
+- HEC Need-Based Scholarships: https://www.hec.gov.pk/english/scholarshipsgrants/NBS/Pages/Eligibility-Criteria.aspx
+- Sindh Education Department / SEEF notices: https://sindheducation.gov.pk/
+- Türkiye Scholarships: https://www.turkiyeburslari.gov.tr/
+- Stipendium Hungaricum: https://stipendiumhungaricum.hu/
+- China Scholarship Council: https://www.campuschina.org/
+- Japan Embassy scholarship information: https://www.pk.emb-japan.go.jp/itpr_en/education.html
+International undergraduate availability and coverage vary by annual call. Tuition-only scholarship is not necessarily fully funded. Verify stipend, airfare, insurance, accommodation and eligible degree level.
+
+SKILLS PLAN
+Month 1: digital basics, email, file management, office tools, online safety, typing.
+Months 2–3: computer fundamentals, logic, maths refresh, internet and troubleshooting.
+Months 3–5: pick one track: web, data, cybersecurity/networking, AI foundations, design, or electrical/solar.
+Months 5–8: build 3 original projects, document them and publish a portfolio/GitHub where relevant.
+Months 8–12: internship/volunteering, CV, interview practice, entry-level applications.
+Free resources: https://www.freecodecamp.org/ ; https://skillsbuild.org/ ; https://learn.microsoft.com/training/ ; https://skillsforall.com/ ; https://www.khanacademy.org/
+
+JOB OUTLOOK
+WEF Future of Jobs 2025 identifies AI/big data, networks/cybersecurity and technological literacy among fast-growing skills. US BLS 2024–34 projects data scientists +33.5%, information security analysts +28.5%, software developers +15.8%. These are US projections, not Pakistan-specific guarantees or an exact prediction for 2036.
+Sources: https://www.weforum.org/publications/the-future-of-jobs-report-2025
+https://www.bls.gov/opub/ted/2026/artificial-intelligence-information-technology-and-employment-2024-34.htm
+
+GOVERNMENT / PRIVATE / REMOTE
+Government roles require official advertised eligibility, tests, quota/domicile and merit. Private jobs include software houses, banks, telecom, hospitals, NGOs, schools and startups. Remote/freelance work requires demonstrable skill, communication, secure payment practices and reliable delivery; income is not guaranteed.
+
+SURVEY INTEGRITY
+Do not fabricate survey results, school names, school photos, facilities or job salaries. Clearly label demo charts. Record survey date and valid sample size. Ask permission before photographing people or school premises. Do not collect respondents' names, phone numbers or exact home addresses unless genuinely necessary and approved.

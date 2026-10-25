@@ -1,0 +1,152 @@
+{
+  "total": 19,
+  "taluka": {
+    "Nagarparkar": 10,
+    "Mithi": 4,
+    "Tharparkar ka doosra ilaqa": 2,
+    "Diplo": 1,
+    "Islamkot": 1,
+    "Kaloi": 1
+  },
+  "area": {
+    "Gaon / dehati ilaqa": 16,
+    "Shehri ilaqa": 2,
+    "Town / qasba": 1
+  },
+  "access": {
+    "Kuch had tak asaan": 8,
+    "Mushkil": 7,
+    "Bohat mushkil": 3,
+    "Bohat asaan": 1
+  },
+  "facilities": {
+    "Kitabein aur learning material": 15,
+    "Saaf toilets": 15,
+    "Computer lab ya internet": 14,
+    "Saaf peenay ka pani": 14,
+    "Classrooms ya school building": 13,
+    "Larkiyon ke liye munasib sahulaton ki kami": 13,
+    "Bijli aur pankhay": 12,
+    "Furniture aur desks": 12,
+    "Teachers ki kami": 11,
+    "Koi khaas kami nahi": 2,
+    "Maloom nahi": 1
+  },
+  "barriers": {
+    "Ghar ki mali mushkilat": 14,
+    "School ka door hona ya transport ki kami": 13,
+    "School facilities ki kami": 12,
+    "Larkiyon ki safety ya school tak pohanchne ke masail": 11,
+    "Parhai mein mushkil ya learning support ki kami": 11,
+    "Ghar ki zimmedariyan ya mazdoori": 10,
+    "Taleem aur career guidance ki kami": 10,
+    "Teachers ki kami ya ghair-hazri": 10,
+    "Doosri wajah": 3,
+    "Maloom nahi": 2,
+    "Parents kia support na hona": 1
+  },
+  "priorities": {
+    "School buildings aur classrooms": 6,
+    "Parents mein taleem ki awareness": 5,
+    "Books aur learning material": 4,
+    "Larkiyon ke schools aur safe transport": 1,
+    "Pani, bijli aur toilets": 1,
+    "Scholarships aur mali madad": 1,
+    "Teachers ki tadaad aur attendance": 1
+  },
+  "guidance": {
+    "Kuch had tak": 9,
+    "Aksar rehnumai nahi milti": 7,
+    "Haan, munasib rehnumai milti hai": 2,
+    "Maloom nahi": 1
+  },
+  "careerFields": {
+    "Artificial Intelligence (AI)": 14,
+    "Computer Science aur IT": 14,
+    "Software Engineering aur Web Development": 13,
+    "Cybersecurity": 10,
+    "Engineering": 10,
+    "Data Science": 9,
+    "Medical aur Allied Health": 9,
+    "Agriculture aur Veterinary": 8,
+    "Business aur Accounting": 8,
+    "Freelancing aur online work": 8,
+    "Tamam fields ke bare mein guidance": 6,
+    "Teaching": 4,
+    "Technical diplomas aur skilled trades": 3
+  },
+  "admissionChallenges": {
+    "Fees aur doosray kharchay": 16,
+    "Career guidance ki kami": 14,
+    "Ghar se doori aur transport": 11,
+    "Admission process samajhne mein mushkil": 10,
+    "Entry test ki tayari": 10,
+    "Family support ki kami": 10,
+    "Scholarships ki maloomat ki kami": 10,
+    "Computer aur internet ki kami": 8,
+    "Hostel ki sahulat": 7,
+    "Doosri mushkil": 2,
+    "Maloom nahi": 2
+  },
+  "scholarships": {
+    "Kuch options ka pata hai": 14,
+    "Haan, tafseel se maloom hai": 3,
+    "Naam suna hai lekin details nahi": 2
+  },
+  "support": {
+    "Scholarships aur fees support": 18,
+    "Books, laptop aur internet": 11,
+    "Career counselling": 11,
+    "English aur computer skills": 11,
+    "Hostel aur transport support": 11,
+    "Parents ke liye awareness sessions": 10,
+    "Entry test preparation": 7,
+    "Admission form bharne mein rehnumai": 6,
+    "Doosri madad": 3
+  },
+  "digitalSkills": {
+    "AI tools ka zimmedarana istemal": 16,
+    "Cybersecurity aur online safety": 14,
+    "Computer basics": 13,
+    "English aur internet use": 13,
+    "Freelancing basics": 12,
+    "Graphic design aur video editing": 12,
+    "MS Word, Excel aur PowerPoint": 12,
+    "Data analysis": 11,
+    "Networking": 11,
+    "Programming aur web development": 11,
+    "CV aur interview skills": 8,
+    "Maloom nahi": 2
+  },
+  "digitalAccess": {
+    "Bohat kam dastiyab": 10,
+    "Bilkul dastiyab nahi": 5,
+    "Aksar students ke liye dastiyab": 2,
+    "Kuch students ke liye dastiyab": 2
+  },
+  "jobs": {
+    "Freelancing": 12,
+    "Government jobs": 11,
+    "Private jobs": 10,
+    "Apna business": 9,
+    "Remote ya online jobs": 8,
+    "Technical aur skilled work": 7,
+    "Teaching aur research": 5,
+    "Health aur community services": 2,
+    "Maloom nahi": 1
+  },
+  "willing": {
+    "Haan": 11,
+    "Shayad": 8
+  },
+  "timestampRange": [
+    "2026-10-23",
+    "2026-10-24"
+  ],
+  "notes": "Anonymized aggregate of 19 responses. No timestamp, email, name, or raw free-text response is published.",
+  "respondentRole": {
+    "University student": 17,
+    "College student": 1,
+    "Parent ya guardian": 1
+  }
+}

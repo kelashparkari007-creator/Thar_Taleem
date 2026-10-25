@@ -1,0 +1,22 @@
+THAR TALEEM — ANONYMIZED SURVEY SNAPSHOT
+Export analyzed: Google Forms Excel response file
+Responses: 19
+Survey dates in export: 2026-10-23 to 2026-10-24
+
+COVERAGE
+Taluka: Nagarparkar 10; Mithi 4; Tharparkar ka doosra ilaqa 2; Diplo 1; Islamkot 1; Kaloi 1.
+Area type: Gaon / dehati ilaqa 16; Shehri ilaqa 2; Town / qasba 1.
+Respondent role: University student 17; College student 1; Parent ya guardian 1.
+
+KEY RESULTS
+School access difficult/very difficult: 10/19 (52.6%).
+Most frequently reported missing facilities: Kitabein aur learning material 15/19 (78.9%); Saaf toilets 15/19 (78.9%); Computer lab ya internet 14/19 (73.7%); Saaf peenay ka pani 14/19 (73.7%); Classrooms ya school building 13/19 (68.4%); Larkiyon ke liye munasib sahulaton ki kami 13/19 (68.4%).
+Possible barriers to completing education: Ghar ki mali mushkilat 14/19 (73.7%); School ka door hona ya transport ki kami 13/19 (68.4%); School facilities ki kami 12/19 (63.2%); Larkiyon ki safety ya school tak pohanchne ke masail 11/19 (57.9%); Parhai mein mushkil ya learning support ki kami 11/19 (57.9%); Ghar ki zimmedariyan ya mazdoori 10/19 (52.6%).
+First school-education priority: School buildings aur classrooms 6/19 (31.6%); Parents mein taleem ki awareness 5/19 (26.3%); Books aur learning material 4/19 (21.1%); Larkiyon ke schools aur safe transport 1/19 (5.3%); Pani, bijli aur toilets 1/19 (5.3%); Scholarships aur mali madad 1/19 (5.3%); Teachers ki tadaad aur attendance 1/19 (5.3%).
+Career guidance: Kuch had tak 9/19; Aksar rehnumai nahi milti 7/19; Haan, munasib rehnumai milti hai 2/19; Maloom nahi 1/19.
+Scholarship awareness: Kuch options ka pata hai 14/19; Haan, tafseel se maloom hai 3/19; Naam suna hai lekin details nahi 2/19.
+Computer/internet access: Bohat kam dastiyab 10/19; Bilkul dastiyab nahi 5/19; Aksar students ke liye dastiyab 2/19; Kuch students ke liye dastiyab 2/19.
+Free career/computer session: Haan 11/19; Shayad 8/19.
+
+LIMITATIONS
+Small, uneven sample: university students form most responses; Nagarparkar has the largest taluka group. Results are not representative of all District Tharparkar. Multi-select questions count each option selected, so totals can exceed the number of respondents. These are perceptions, not verified school inspections or causal findings. Raw emails, timestamps and free-text answers are excluded from website charts and public aggregate files.

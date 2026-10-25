@@ -1,0 +1,22 @@
+THAR TALEEM — INITIAL SURVEY SNAPSHOT
+Export analyzed: Google Forms Excel response file
+Responses: 11
+Survey dates in export: 23 October 2026
+
+COVERAGE
+Taluka: Nagarparkar 7; Mithi 2; Islamkot 1; Diplo 1.
+Area type: rural 9; urban 1; town/qasba 1.
+Respondent role: university student 10; parent/guardian 1.
+
+KEY RESULTS
+School access difficult/very difficult: 5/11 (45.5%).
+Facility selected most often: computer lab/internet 9/11 (81.8%).
+Other facility gaps selected: books/learning material 8/11; facilities suitable for girls 8/11; clean drinking water 7/11; classrooms/building 7/11; clean toilets 7/11.
+Possible reason children may not complete education: financial hardship 9/11; lack of education/career guidance 8/11; school distance/transport 6/11; home responsibilities/labour 6/11; learning support difficulties 6/11.
+Career guidance: often not available 5/11; available to some extent 5/11; don't know 1/11.
+Digital access: very limited 5/11; unavailable 4/11; available to some students 2/11.
+Free career/computer session: yes 6/11; maybe 5/11.
+First school-education priority: parents' education awareness 5/11; books/material 2/11; buildings/classrooms 2/11; water/electricity/toilets 1/11; scholarships/financial aid 1/11.
+
+LIMITATIONS
+Small, uneven sample: 10 respondents are university students; 7 responses from Nagarparkar. Results are not representative of all District Tharparkar. Multi-select questions count selections, not unique respondents. These are perceptions, not verified school inspections or causal findings. Raw emails and timestamps are excluded from the website.

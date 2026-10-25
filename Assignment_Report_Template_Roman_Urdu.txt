@@ -1,0 +1,66 @@
+CIVICS & COMMUNITY ENGAGEMENT PROJECT
+THAR TALEEM & CAREER RAAH
+Study area: District Tharparkar (multiple taluqas/communities; covered areas must be listed from actual sample)
+
+1. INTRODUCTION
+Is project ka maqsad rural education ke issues aur students ki career/university guidance ki zaroorat ko samajhna hai. Website school facilities, community survey, university choices, scholarships, digital skills aur career pathways ko aik jagah jama karti hai.
+
+2. PROBLEM STATEMENT
+Rural students ko school facilities, distance, information access, university admission choices, scholarship information aur practical skill guidance mein rukawaton ka samna ho sakta hai. Har gaon aur school ki situation alag hai; local claims survey/verification se confirm honge.
+
+3. BACKGROUND EVIDENCE
+Official Sindh Annual School Census 2023–24 Tharparkar profile: 3,839 listed schools, 3,586 functional schools, 254,268 enrolment and 7,323 deployed teachers (district-level data; village-level data nahi).
+
+4. RESEARCH OBJECTIVES
+- Parents, students and community members ke nazdeek education ki main barriers identify karna.
+- Current facilities and school access ko local verification se document karna.
+- Students ki university/field selection aur scholarship information ki needs samajhna.
+- Practical digital skill and career resources provide karna.
+- Survey evidence ki bunyaad par realistic community recommendations dena.
+
+5. METHODOLOGY
+Target participants: adult community members, parents/guardians, teachers and students. Survey voluntary and anonymous hoga. Minors ke liye teacher/guardian permission aur safe practice follow karein. Sample size: [real number]. Survey dates: [dates]. Method: [Google Form / paper]. Taluqas and areas covered: [list only those actually sampled].
+
+6. SURVEY RESULTS — REAL DATA ONLY
+Total valid responses: [fill after collecting responses]
+Main education barrier: [actual result]
+School facilities reported by respondents: [actual result]
+Travel time/distance: [actual result]
+Most requested solution: [actual result]
+Students' career guidance needs: [actual result]
+Respondent groups and percentages: [actual result]
+Do not copy demo chart numbers into this section.
+
+7. INTERPRETATION
+Explain what the real responses suggest, the limits of the sample, who may be underrepresented, and whether responses agree/disagree with older published reporting. Avoid claiming the sample represents all of Tharparkar unless the sampling method and geographic coverage support that conclusion.
+
+8. RECOMMENDATIONS
+Choose recommendations based on results, for example: school facilities checklist to education office, community study circle, book-sharing, career information session, scholarship help desk, internet/digital literacy session, or parent-teacher meeting. Assign a responsible person/group and a realistic follow-up date.
+
+9. CAREER GUIDANCE COMPONENT
+Explain the difference among CS, IT, SE, AI, Data Science, Cybersecurity, Networking/Cloud, health and engineering fields. Compare eligibility, official university program, fees, scholarship and practical skills. Include pre-engineering and pre-medical options and avoid promising a guaranteed job.
+
+10. LIMITATIONS
+- Official district statistics are not village-specific.
+- Career growth figures from US BLS describe the US labour market, not Pakistan directly.
+- Scholarship availability, fees and admissions change by year.
+- Online photographs may be illustrative, not actual local school images.
+
+11. SOURCES
+Sindh Annual School Census: https://www.rsu-sindh.gov.pk/contents/profiles/ASC%202023-24%20FINAL%20FILE%20%282%29.pdf
+Sindh school search: https://rsusindh.gov.pk/programs/searchSchoolDetails.php
+HEC Need-Based: https://www.hec.gov.pk/english/scholarshipsgrants/NBS/Pages/Eligibility-Criteria.aspx
+HEC CS curriculum: https://www.hec.gov.pk/english/news/news/Pages/HEC-in-Collaboration-with-Academia.aspx
+WEF Future of Jobs 2025: https://www.weforum.org/publications/the-future-of-jobs-report-2025
+US BLS projections: https://www.bls.gov/opub/ted/2026/artificial-intelligence-information-technology-and-employment-2024-34.htm
+PMDC: https://pmdc.pk/Home/FAQs
+NCEAC: https://nceac.org.pk/
+
+12. CONCLUSION
+Conclusion must reflect real survey findings and the limitations above. State what community action can realistically be done next and how the team will follow up.
+
+
+INITIAL SURVEY FINDINGS — 23 OCTOBER 2026 (n=11; preliminary, non-representative)
+An initial Google Forms export contained 11 responses. Respondents selected Nagarparkar (7), Mithi (2), Islamkot (1) and Diplo (1); 9 described their area as rural, 1 urban and 1 town/qasba. Ten respondents were university students and one was a parent/guardian. This sample is therefore not representative of all Tharparkar taluqas or community groups.
+School access: 5 of 11 described access as 'Mushkil' or 'Bohat mushkil'. In the multiple-select facilities question, computer lab/internet was selected by 9 respondents, books/learning material by 8, facilities suitable for girls by 8, clean drinking water by 7, classrooms/buildings by 7, and clean toilets by 7. For possible reasons children may not complete education, financial hardship was selected by 9, lack of education/career guidance by 8, and distance/transport by 6. Career guidance was described as often unavailable by 5 respondents; another 5 said it is available to some extent. Digital access was reported as very limited by 5 and unavailable by 4. Six respondents said yes and five said maybe to a free career/computer-skills session.
+Interpretation and limitations: These are respondents' perceptions, not verified school inspections or evidence of causation. Multiple-select counts can exceed 11. Increase and diversify the sample across all taluqas, rural/urban areas, respondent roles and genders before making district-wide claims. Do not publish emails or raw individual answers.
